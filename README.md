@@ -16,4 +16,5 @@ AndroidSchedulers.mainThread(): This provides access to android Main Thread / UI
 ## Output of my project<dt>
 
 
+  
 ![](images/logcat.png)
